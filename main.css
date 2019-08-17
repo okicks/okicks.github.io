@@ -1,0 +1,26 @@
+.project-pic {
+    width: 80%;
+    height: 300px;
+    border-radius: 21px 21px 0 0;
+    background-repeat: no-repeat;
+    background-size: 45em 22em;
+    background-color: grey;
+}
+
+.header-pic {
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-size: auto;
+}
+
+.carousel-pic{
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-size: auto;
+}
+
+#carousel-pic{
+    background-repeat: no-repeat;
+    background-color: grey;
+    background-size: 130em 50em;
+}
